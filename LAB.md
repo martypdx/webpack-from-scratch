@@ -33,6 +33,10 @@
 1. Restart via `npm start`
 1. Notice what happens when you change `add.js`
 
+### Add source map support
+
+1. Add `devtool: 'source-map' to your `webpack.config.js`
+
 ### Add `babel` for ESNext
 
 1. `npm i babel-core babel-loader babel-preset-env -D`
