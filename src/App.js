@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './App.css';
 
 export default class App extends Component {
 
@@ -14,7 +15,7 @@ export default class App extends Component {
 
     return (
       <main>
-        <div>{salutation} {name}</div>
+        <div className="greeting">{salutation} {name}</div>
         <div>
           <input name="salutation" value={salutation} onChange={this.handleChange}/>
           <input name="name" value={name} onChange={this.handleChange}/>
