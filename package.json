@@ -1,0 +1,19 @@
+{
+  "name": "webpack-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypdx/webpack-from-scratch.git"
+  },
+  "author": "Marty Nelson <marty@martypdx.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martypdx/webpack-from-scratch/issues"
+  },
+  "homepage": "https://github.com/martypdx/webpack-from-scratch#readme"
+}
