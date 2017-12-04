@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/martypdx/webpack-from-scratch/issues"
   },
-  "homepage": "https://github.com/martypdx/webpack-from-scratch#readme"
+  "homepage": "https://github.com/martypdx/webpack-from-scratch#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "webpack": "^3.10.0"
+  }
 }
