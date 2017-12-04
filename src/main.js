@@ -3,5 +3,5 @@ import ReactDom from 'react-dom';
 
 ReactDom.render(
   <div>Hello World</div>,
-  document.body
+  document.getElementById('root')
 );
