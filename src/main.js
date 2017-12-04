@@ -1,3 +1,7 @@
-import { add } from './add';
+import React from 'react';
+import ReactDom from 'react-dom';
 
-console.log('40 + 2 =', add(40, 2));
+ReactDom.render(
+  <div>Hello World</div>,
+  document.body
+);

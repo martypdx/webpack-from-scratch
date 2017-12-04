@@ -6,6 +6,7 @@
           "browsers": ["last 1 Chrome version"]
         }
       }
-    ]
+    ],
+    "react"
   ]
 }
