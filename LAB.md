@@ -35,7 +35,7 @@
 
 ### Add source map support
 
-1. Add `devtool: 'source-map' to your `webpack.config.js`
+1. Add `devtool: 'source-map'` to your `webpack.config.js`
 
 ### Add `babel` for ESNext
 
